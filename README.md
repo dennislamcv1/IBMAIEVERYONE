@@ -1,5 +1,5 @@
 # IBMAIEveryone
-## AI Foundations for Everyone Specialization
+## AI Foundations for Everyone Specialization (4 course series)
 
 Artificial Intelligence (AI) is no longer science fiction. It is rapidly permeating all industries and having a profound impact on virtually every aspect of our existence. Whether you are an executive, a leader, an industry professional, a researcher, or a student - understanding AI, its impact and transformative potential for your organization and our society is of paramount importance. 
 
